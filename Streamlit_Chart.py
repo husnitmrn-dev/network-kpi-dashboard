@@ -262,7 +262,7 @@ def create_chart(column_name, title):
     )
 
     fig.update_layout(
-        height=500,
+        height=350,
         plot_bgcolor="#161A28",
         paper_bgcolor="#161A28",
         font=dict(color="white"),
